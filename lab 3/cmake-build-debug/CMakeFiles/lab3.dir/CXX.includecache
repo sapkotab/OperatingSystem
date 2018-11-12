@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/function.cpp
+iostream
+-
+iomanip
+-
+function.h
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/function.h
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/function.h
+string
+-
+page.h
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/page.h
+fstream
+-
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/memsim.cpp
+iostream
+-
+function.h
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/function.h
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/page.cpp
+page.h
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/page.h
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 3/page.h
+vector
+-
+

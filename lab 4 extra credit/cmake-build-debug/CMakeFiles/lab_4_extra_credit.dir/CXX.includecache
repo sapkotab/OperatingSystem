@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Bhuwan/Google Drive/ucd restart/fall 2017/operating system/lab 4 extra credit/disksim.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+algorithm
+-
+
